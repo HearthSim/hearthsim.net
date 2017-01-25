@@ -1,131 +1,40 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>HearthSim.net</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-<style type="text/css">
-@font-face {
-	font-family: "Open Sans";
-	font-style: normal;
-	font-weight: 400;
-	src: local("Open Sans"), url("static/OpenSans-Regular.woff") format("woff");
-}
-
-body {
-	background: url("static/bg.png");
-	font-family: "Open Sans", Helvetica, sans-serif;
-	margin: 0;
-}
-
-a {
-	text-decoration: none;
-}
-
-a:hover {
-	text-decoration: underline;
-}
-
-
-header {
-	border-bottom: 1px solid #ddd;
-	background-color: #f4f4f4;
-	height: 75px;
-	overflow: hidden;
-}
-
-header a {
-	color: #333;
-}
-header a:hover {
-	text-decoration: none;
-}
-
-header a img {
-	height: 50px;
-	width: 50px;
-	margin-right: 10px;
-	vertical-align: middle;
-}
-
-header nav {
-	max-width: 760px;
-	margin: 0 auto;
-}
-
-header nav ul {
-	float: right;
-}
-
-header nav li {
-	display: inline;
-	font-size: 1.2em;
-	padding-right: 10px;
-}
-
-h1.logo {
-	float: left;
-	font-weight: normal;
-	margin: 10px 15px 0 0;
-	overflow: hidden;
-}
-
-h1.logo a {
-	color: #B90303;
-}
-
-footer {
-	background-color: #eee;
-	border-top: 1px solid #ddd;
-	font-size: x-small;
-	margin-top: 50px;
-	padding: 20px 0;
-	position: fixed;
-	bottom: 0;
-	text-align: center;
-	width: 100%;
-}
-
-footer a {
-	color: #37A5DE;
-}
-
-main {
-	margin: 0 auto;
-	text-align: center;
-}
-
-.what {
-	font-family: serif;
-	margin: 3em;
-	padding: 3em;
-}
-.what strong {
-	color: #2f2f2f;
-	font-weight: normal;
-	font-size: 5em;
-	margin: 0 auto;
-	text-shadow: 1px 3px #ccc;
-}
-</style>
-</head>
-<body>
-<header>
-	<nav>
-		<h1 class="logo"><a href="/" class="logo"><img src="static/logo.png"/>HearthSim Network</a></h1>
-		<ul>
-			<li><a href="https://hearthsim.info/">Community</a></li>
-			<li><a href="https://hearthsim.info/blog/">Blog</a></li>
-		</ul>
-	</nav>
-</header>
-<main>
-<p class="what">
-	<strong>?</strong>
-</p>
-</p>
-</main>
-<footer>
-	<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> - <a href="/">HearthSim</a>
-</footer>
-</body>
+	<head>
+		<title>HearthSim, the company</title>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="hearthsim.css" />
+		<link rel="icon" type="image/png" href="static/favicon.png">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<h1 class="brand">
+					<a href="/">
+						<img src="static/hearthsim-logo.png" id="hearthsim-logo" />
+						<img src="static/hearthsim-s.png" id="hearthsim-s" />
+					</a>
+				</h1>
+				<nav>
+					<a href="https://hearthsim.info/">Community</a>
+					<a href="https://hearthsim.info/blog/">Blog</a>
+				</nav>
+			</div>
+		</header>
+		<main>
+			<section id="hearthsim" class="hero">
+				<div class="container">
+					<h1>We're HearthSim, the company.</h1>
+					<p>We build modern tools for players and companies around gaming and electronic sports.</p>
+					<p>We embrace <a href="https://github.com/HearthSim/">open development</a> and collaborate with <a href="https://hearthsim.info/">our community</a>.</p>
+				</div>
+			</section>
+		</main>
+		<footer>
+			<div class="container">
+				<a href="/">HearthSim</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>
+			</div>
+		</footer>
+	</body>
 </html>

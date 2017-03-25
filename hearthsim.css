@@ -296,7 +296,7 @@ section:not(.hero):nth-child(2n+1) {
 	border: 1px solid transparent;
 	margin: 0 10px 1em 0;
 	overflow: hidden;
-	flex-shrink: 0;
+	flex-grow: 1;
 }
 
 .product-listing > *:last-child {
@@ -351,6 +351,15 @@ section:not(.hero):nth-child(2n+1) {
 }
 
 .hdt:hover img {
+	filter: invert(100%);
+}
+
+.hearthstonejson:hover {
+	background-color: #252525;
+	color: white;
+}
+
+.hearthstonejson:hover img {
 	filter: invert(100%);
 }
 

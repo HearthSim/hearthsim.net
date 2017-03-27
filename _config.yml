@@ -1,0 +1,16 @@
+url: "https://hearthsim.net"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false  # No linebreak on newlines unless explicitly specified
+
+sass:
+  style: :compressed
+
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+  - vendor/

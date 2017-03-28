@@ -160,6 +160,18 @@ section:not(.hero):nth-child(2n+1) {
 	color: white;
 }
 
+@media (max-width: 1079px) and (min-width: 568px) {
+	.hero {
+		font-size: 1.35em;
+	}
+}
+
+@media (max-width: 567px) {
+	.hero {
+		font-size: 1.2em;
+	}
+}
+
 .hero a {
 	color: inherit;
 	font-style: normal;
@@ -174,12 +186,26 @@ section:not(.hero):nth-child(2n+1) {
 
 .team-listing > * {
 	display: inline-block;
-	width: 22.5%;
+	width: 25%;
 	padding: 2em 15px 1.4em;
 	text-align: center;
 	border: 1px solid transparent;
 	overflow: hidden;
 	flex-shrink: 0;
+	font-size: 1em;
+}
+
+@media (max-width: 1079px) and (min-width: 568px) {
+	.team-listing > * {
+		font-size: 0.8em;
+	}
+}
+
+@media (max-width: 567px) {
+	.team-listing > * {
+		font-size: 0.75em;
+		width: 50%;
+	}
 }
 
 .team-listing > *:last-child {
@@ -305,7 +331,7 @@ section:not(.hero):nth-child(2n+1) {
 
 @media (max-width: 1079px) and (min-width: 568px) {
 	.product-listing > * {
-		flex-grow: 1;
+		font-size: 0.75em;
 	}
 }
 

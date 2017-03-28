@@ -401,3 +401,12 @@ footer a {
 	text-decoration: none;
 	color: black;
 }
+
+footer .footer-right {
+	float: right;
+}
+
+footer .footer-right img {
+	height: 17px;
+	width: 125px;
+}

@@ -404,9 +404,15 @@ footer a {
 
 footer .footer-right {
 	float: right;
+	text-align: right;
 }
 
 footer .footer-right img {
 	height: 17px;
 	width: 125px;
+}
+
+#icon-linkedin {
+	height: 11px;
+	width: 11px;
 }

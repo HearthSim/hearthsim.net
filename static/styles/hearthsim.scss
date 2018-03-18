@@ -156,6 +156,10 @@ section:not(.hero):nth-child(2n+1) {
 	background-color: #eaeaea;
 }
 
+.section-header {
+	text-transform: capitalize;
+}
+
 .hero {
 	background-color: #a60303;
 	font-size: 1.5em;

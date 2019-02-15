@@ -395,6 +395,15 @@ section:not(.hero):nth-child(2n+1) {
 	filter: invert(100%);
 }
 
+.untappedgg:hover {
+	background-color: #262321;
+	color: white;
+}
+
+.untappedgg:hover img {
+	filter: hue-rotate(-174.1deg) saturate(80%);
+}
+
 /* Footer */
 
 footer {

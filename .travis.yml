@@ -1,8 +1,12 @@
 # https://travis-ci.org/HearthSim/hearthsim.net
 language: ruby
-rvm: "2.4.1"
+rvm: "2.6.1"
 
 cache: bundler
+
+before_install:
+  - gem update --system
+  - gem install bundler
 
 script: bundle exec jekyll build
 

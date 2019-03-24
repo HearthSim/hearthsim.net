@@ -18,7 +18,7 @@ The last substantive update to this document (excluding formatting changes, typo
 
 ## Account creation
 
-If you create an account at Untapped.gg, the account that you create will be a master account that you will use for  future games that we support. In the future, we might migrate HSReplay.net to also use this master account, however initially there will be two account management pages: one for HSReplay.net users ([https://hsreplay.net/account/](https://hsreplay.net/account/)); and, a second one for Untapped.gg users ([https://accounts.untapped.gg/settings](https://accounts.untapped.gg/settings)). Account creation and/or registration for and/or use of any of HeathSim’s Sites or Services is subject to this Privacy Policy and our [Terms and Conditions](/legal/terms-of-service.html). Additional information about your privacy and your data can be found in the following sections.
+If you create an account at Untapped.gg, the account that you create will be a master account that you will use for  future games that we support. In the future, we might migrate HSReplay.net to also use this master account, however initially there will be two account management pages: one for HSReplay.net users ([https://hsreplay.net/account/](https://hsreplay.net/account/)); and, a second one for Untapped.gg users ([https://accounts.untapped.gg/settings](https://accounts.untapped.gg/settings)). Account creation and/or registration for and/or use of any of HeathSim’s Sites or Services is subject to this Privacy Policy and our [Terms of Service](/legal/terms-of-service.html). Additional information about your privacy and your data can be found in the following sections.
 
 
 ## Data that we share with Third-Parties and why
@@ -80,7 +80,7 @@ The apps we provide as part of the Service also send usage tracking telemetry da
 
 ## Hearthstone Deck Tracker & Untapped.gg Companion
 
-Hearthstone Deck Tracker (HDT), HSTracker, Arcane Tracker and the Untapped.gg Companion are our official upload clients. Whenever you play a game with one of these products running, the game’s log and other Gameplay Related Data is automatically uploaded to us. You may opt-out of this data collection and processing by uninstalling these Services.
+Hearthstone Deck Tracker, HSTracker, Arcane Tracker and the Untapped.gg Companion are our official upload clients. Whenever you play a game with one of these products running, the game’s log and other Gameplay Related Data is automatically uploaded to us. You may opt-out of this data collection and processing by uninstalling these Services.
 
 
 ## Cookies
@@ -122,14 +122,14 @@ For detailed information, please refer to the Privacy Policy of the third party 
 
 * Blizzard Account ID
 * BattleTag (if one exists)
-* Blizzard Privacy Policy
+* [Blizzard Privacy Policy](https://us.blizzard.com/en-us/company/about/privacy.html)
 
 
 ### Discord
 
 * Discord account ID, username and account email
 * Discord avatar ID
-* Discord Privacy Policy
+* [Discord Privacy Policy](https://discordapp.com/privacy)
 
 
 ### Twitch
@@ -137,7 +137,7 @@ For detailed information, please refer to the Privacy Policy of the third party 
 * Twitch account ID, username, display name, account email and creation date
 * Twitch account “bio” (if one exists)
 * Twitch avatar URL (hosted by Twitch)
-* Twitch Privacy Policy.
+* [Twitch Privacy Policy](https://www.twitch.tv/p/legal/privacy-policy/).
 
 
 ## How you can verify or view your information

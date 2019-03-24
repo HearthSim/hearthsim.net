@@ -9,7 +9,7 @@ title: HearthSim Terms of Service
 
 ## The Gist
 
-We, the folks at [HearthSim](https://hearthsim.net/), are the creators of Untapped.gg, and [HSReplay.net](https://hsreplay.net/), (each individually referred to as a “Site”) the Untapped.gg Companion, [Hearthstone Deck Tracker](https://hsdecktracker.net/), HSTracker, Arcane Tracker, and many of the tools, services and mobile apps that power the online gaming community (the Sites and any tools, services, and mobile apps individually/collectively referred to as “a” or “the Service” or “Services”). We hope that you like our projects. We want you to use them! However, to ensure your safety and ours, there are limitations on how you may use these Services. These limitations are the Terms of Service.
+We, the folks at [HearthSim](https://hearthsim.net/), are the creators of [Untapped.gg](https://untapped.gg/), and [HSReplay.net](https://hsreplay.net/), (each individually referred to as a “Site”) the Untapped.gg Companion, Hearthstone Deck Tracker, HSTracker, Arcane Tracker, and many of the tools, services and mobile apps that power the online gaming community (the Sites and any tools, services, and mobile apps individually/collectively referred to as “a” or “the Service” or “Services”). We hope that you like our projects. We want you to use them! However, to ensure your safety and ours, there are limitations on how you may use these Services. These limitations are the Terms of Service.
 
 The last substantive update to this document (excluding formatting changes, typo fixes, etc.) was on **2019-03-20**.
 
@@ -58,17 +58,17 @@ If you participate in the HearthSim Referral Program ("Referral Program"), refer
 The Service is controlled and offered by the Company from its facilities in the United States of America. The Company makes no representations that the Service is appropriate or available for use in other locations. Those who access or use the Service from other jurisdictions do so at their own volition and are responsible for compliance with local law. You are responsible for determining and paying the appropriate government taxes, fees, and service charges resulting from a transaction occurring through the Service. We are not responsible for collecting, reporting, paying, or remitting to you any such taxes, fees, or service charges, except as may otherwise be required by law.
 
 
-## 6. Responsibility of Visitors.
+## 6. Responsibility of Visitors
 
 HearthSim has not reviewed, and cannot review, all of the material, including computer software, posted to our Services, and cannot therefore be responsible for that material's content, use or effects. By operating our Services, HearthSim does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful, or non-harmful. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. Our Services may contain content that is offensive, indecent, or otherwise objectionable, as well as content containing technical inaccuracies, typographical mistakes, and other errors. Our Services may also contain material that violates the privacy or publicity rights, or infringes the intellectual property and other proprietary rights, of third parties, or the downloading, copying or use of which is subject to additional terms and conditions, stated or unstated. HearthSim disclaims any responsibility for any harm resulting from the use by visitors of our Services, or from any downloading by those visitors of content there posted.
 
 
-## 7. Content Posted on Other Websites.
+## 7. Content Posted on Other Websites
 
 We have not reviewed, and cannot review, all of the material, including computer software, made available through the websites and webpages to which the Service links, and that link to the Service. HearthSim does not have any control over those non-Service websites, and is not responsible for their contents or their use. By linking to a non-Service website, HearthSim does not represent or imply that it endorses such website. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. HearthSim disclaims any responsibility for any harm resulting from your use of non-Service websites and webpages.
 
 
-## 8. Intellectual Property.
+## 8. Intellectual Property
 
 This agreement does not transfer from HearthSim to you any HearthSim or third party intellectual property, and all right, title, and interest in and to such property will remain (as between the parties) solely with HearthSim. HearthSim, the Hearthstone Deck Tracker, the Untapped.gg Companion, Untapped.gg, HSReplay.net, the HSReplay.net logo, the Untapped.gg logo, the HearthSim logo, and all other trademarks, service marks, graphics and logos used in connection with our Services, are trademarks or registered trademarks of HearthSim or HearthSim's licensors. Other trademarks, service marks, graphics and logos used in connection with our Services may be the trademarks of other third parties. Your use of our Services grants you no right or license to reproduce or otherwise use any HearthSim or third-party trademarks.
 
@@ -77,7 +77,7 @@ You agree that you shall not modify, copy, distribute, frame, reproduce, republi
 You further agree that by submitting Gameplay Related Data and/or Content to the Service, by any method, you hereby grant HearthSim a world-wide, royalty-free, perpetual and non-exclusive license to reproduce, analyze, modify, adapt, publish, redistribute and sell the Gameplay Related Data and/or Content, both individual and aggregated from the global player base. This license includes any data, information or creative works which result from and/or are derivative of the Gameplay Related Data and/or Content. Subject to the terms of our Privacy Policy, this license also allows HearthSim to publish the Gameplay Related Data on the website or on third party websites, use the Gameplay Related Data for promotional purposes, gather and publish analytics based on data gathered in the Gameplay Related Data, and provide Premium Services, or any of the other services or products that we offer across any of our Sites or Services. HearthSim commits itself to be transparent about such uses of data, as they are described in our Privacy Policy.
 
 
-## 9. Digital Millennium Copyright Act.
+## 9. Digital Millennium Copyright Act
 
 If you believe that material available on our Site, including any Content hosted on any of our Sites, infringes on your copyright(s), please notify us by providing a DMCA notice. Upon receipt of a valid and complete notice, we will remove the material and make a good faith attempt to contact the user who uploaded the material by email.
 

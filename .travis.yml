@@ -1,6 +1,7 @@
 # https://travis-ci.org/HearthSim/hearthsim.net
 language: ruby
 rvm: "2.6.1"
+jdk: openjdk8
 
 cache: bundler
 

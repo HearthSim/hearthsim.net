@@ -153,4 +153,3 @@ Heap Analytics provides us with intelligence on how users use our websites and a
 
 - [Official website](https://heap.io)
 - [Heap Analytics Privacy Policy](https://heap.io/privacy)
-

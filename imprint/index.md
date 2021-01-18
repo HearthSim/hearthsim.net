@@ -5,9 +5,10 @@ title: HearthSim, LLC — Imprint
 
 ## Imprint
 
-HearthSim, LLC.
-95 Lexington Avenue
-New York, NY 10016
+HearthSim, LLC
+1178 Broadway
+3rd Floor #1337
+New York, NY 10001
 USA
 
 Authorized representative: Andrew Wilson

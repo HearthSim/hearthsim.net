@@ -1,7 +1,5 @@
 # [hearthsim.net](https://hearthsim.net)
 
-[![Build Status](https://travis-ci.org/HearthSim/hearthsim.net.svg?branch=master)](https://travis-ci.org/HearthSim/hearthsim.net)
-
 ## Development
 
 Install the dependencies:
